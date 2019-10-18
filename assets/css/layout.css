@@ -1800,7 +1800,7 @@ button,
 
 		.icon:before {
 			display: inline-block;
-			font-family: 'Montserrat', sans-serif;
+			font-family: FontAwesome;
 			font-size: 1.25em;
 			text-decoration: none;
 			font-style: normal;
